@@ -17,21 +17,21 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Artificial Intelligence
+  - Experimental evolution of viruses
   - Computational Linguistics
-  - Information Retrieval
+  - Host range evolution
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: PhD in Biology
+      institution: University of North Carolina at Chapel Hill
+      year: 2015
+    - course: MS in Biology
+      institution: Ohio University
       year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: BA in Biomathematics and Cognitive Sciences
+      institution: Rutgers University
+      year: 2003
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -68,6 +68,4 @@ user_groups:
   - Researchers
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Lisa Bono is an assistant professor of Biological Sciences at Texas Tech University. She is broadly interested in the ecology and evolution of viruses. She primarily uses an experimental evolution approach to study how ecological interactions can drive host range expansion in the bacteriophage (bacteria-infecting virus) phi6, which infects the plant pathogen _Pseudomonas syringae_ and related pseudomonads. Additionally, she studies how a changing host landscape impact a virus' ability to adapt to novel situations in the future and how social interactions impact a virus' fitness. When not in the lab, she enjoys virus hunting for phages.
