@@ -18,7 +18,8 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 interests:
   - Experimental evolution of viruses
-  - Computational Linguistics
+  - Social lives of viruses
+  - Viral evolvability
   - Host range evolution
 
 education:
