@@ -19,4 +19,10 @@ design:
 
 <br>
 
-The **Bono Lab** studies the ecology and evolution of viruses at Texas Tech University.
+The **Bono Lab** studies the ecology and evolution of viruses at Texas Tech University. Understanding the fantastic biodiversity that is seen in the world requires both an understanding of the mechanisms generating such diversity and the selective forces that favor it. Although the interplay between ecology and evolution was historically separated by time scales, the complex dynamics between these forces have recently become better recognized; arguably nowhere more so than in viruses. The lab focuses on these issues using viruses as both a model system to study general questions in biology but also the ecology and evolution of viruses themselves. Much of the research utilizes an experimental evolution approach with bacteria-infecting viruses (bacteriophages or simply phages), such as the Pseudomonas syringae phage phi6, but also includes influenza and environmental isolated phage. The lab is currently working on the following projects in the lab:
+
+•	Ecological drivers of viral host range evolution
+•	Evolvability consequences of host range expansion
+•	Sociovirology and its implications for viral evolution
+•	Isolation of viruses from environmental samples
+
